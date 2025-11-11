@@ -1,0 +1,68 @@
+body {
+
+    margin: 0;
+    height: 100vh;
+
+
+}
+
+
+.hero,
+.main {
+    max-width: 100%;
+    width: 100%;
+    height: 50%;
+    margin: 0%;
+    display: inline-block;
+}
+
+
+.hero {
+    background-color: #8c451f;
+    text-align: center;
+font-size: 165%;
+}
+
+.banner {
+    margin-top: 13%;
+    
+}
+
+
+.main {
+    background-color: #d1a162;
+    font-size: 165%;
+}
+
+.container {
+    list-style-type: none;
+
+    display: flex;
+    justify-content: center;
+}
+
+.container .link {
+
+    margin: 1%;
+    color: #3e6b21;
+
+}
+
+
+.container .link a {
+
+    text-decoration: none;
+    color: #3e6b21;
+}
+
+
+.descr1,
+.descr2,
+.descr {
+    display: block;
+}
+
+.descr1,
+.descr2 {
+    color: #8c451f;
+}
