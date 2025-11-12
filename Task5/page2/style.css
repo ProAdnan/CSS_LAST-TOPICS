@@ -1,0 +1,44 @@
+body {
+    background-color: #ffffcc;
+    margin-left: 1%;
+}
+
+
+
+
+.boxs {
+    background-origin: padding-box;
+    width: 36%;
+    height: fit-content;
+    background-color: white;
+    padding: 15px 10px;
+    margin-bottom: 1%;
+    border: 1px solid black;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+
+.box3{
+    border:2px dotted red;
+    color: red;
+}
+.box3 p{
+    color: red;
+    border: 1px dotted red;
+}
+
+.mark1{
+    background-color: #f5ca9f;
+    color: black;
+}
+.mark2{
+    background-color:#f9fc95;
+    color: black;
+}
+
+.r{
+    color: red;
+}
